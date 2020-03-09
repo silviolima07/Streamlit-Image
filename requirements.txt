@@ -1,0 +1,7 @@
+Flask
+opencv-contrib-python
+gunicorn
+numpy
+Jinja2
+numpy
+streamlit
